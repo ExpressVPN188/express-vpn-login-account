@@ -9,7 +9,7 @@ How Do I Securely Access My ExpressVPN Login Account?
    :alt: Express VPN Login Account
    :width: 300px
    :align: center
-   :target: https://aclogportal.com/
+   :target: https://aclogportal.com/expressvpn
 
 Your ExpressVPN login account is your personal gateway to one of the world’s most trusted virtual private network services. Whether you're trying to protect your online privacy, access restricted content, or secure your internet connection, ExpressVPN provides fast and encrypted browsing. Understanding how to properly access and manage your account ensures you get the best experience from the service.
 When you sign up for ExpressVPN, you create a login account that connects you to all of the service’s features. This account stores your subscription details, activation codes, and device management settings.
